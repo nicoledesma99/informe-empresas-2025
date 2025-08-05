@@ -36,9 +36,11 @@ Este proyecto de Power BI fue desarrollado para analizar la rentabilidad de las 
 
 - La base de datos original incluye información sensible, por lo cual este archivo puede estar anonimizado o sin datos reales si se publica de forma pública.
 - Para correr este informe se requiere Power BI Desktop instalado.
-
+- 
+🔗 [Ver informe interactivo en Power BI](https://app.powerbi.com/view?r=eyJrIjoiZjgxZmU4NTAtYWM3MS00ZGIyLWJlZDYtNjMyMDBjYmJhNTIxIiwidCI6IjA4ZWRmMjhhLWVmNzEtNDk5MS05YWMzLWU3NWMyZWVmZjFhMCJ9)
+  
 ## 👨‍💻 Autor
 
 **Nicolás Ledesma**  
 Analista de datos en cobertura médica  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/tuusuario)
+[LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-ledesma-5a00121a0/) | [GitHub](https://github.com/nicoledesma99)
